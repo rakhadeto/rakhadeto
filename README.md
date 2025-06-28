@@ -83,36 +83,24 @@ I am passionate about exploring the potential of data through intelligent analys
 
 ---
 
-## 📌 Featured Projects  
-
-### **[Up yoUr Img](https://github.com/frhndevweb/Upuimg)**  
-An advanced image-sharing platform with a clean and intuitive user experience.  
-
-### **[Pemrograman Web](https://www.mediafire.com/folder/nechnb1zewov5/Pemrograman_Web)**  
-Free app to learn basic web programming.  
-
----
-
-## 🌐 Connect with Me  
-
-- 📧 **Email**: [frhndevweb@gmail.com](mailto:frhndevweb@gmail.com)  
-- 🌍 **Portfolio**: [frhndevweb.my.id](https://frhndevweb.my.id)  
-- 🌐 **Website**: [hannaaffiii.netlify.app](https://hannaaffiii.netlify.app)  
-
 ### Social Media  
-- [X](https://x.com/hannaaffiii)  
-- [Instagram](https://instagram.com/hannaaffiii)  
-- [TikTok](https://tiktok.com/@hannaaffiii)  
+- [WhatsApp](https:/6281291359191/wa.me/)  
+- [Instagram](https://instagram.com/rakhadeto_d)  
+- [TikTok](https://tiktok.com/@rakhadeto_d)  
 
 ---
 
 ## 🤝 Collaboration Opportunities  
 
 I’m open to collaborating on:  
-- **Web Development Projects** – Creating innovative and responsive web applications.  
-- **UI/UX Design** – Designing seamless user interfaces and experiences.  
-- **Cybersecurity Initiatives** – Enhancing online security through collaborative efforts.  
+- "End-to-End Web Application Development": Building robust and value-added web applications, from designing efficient databases, developing scalable backends, to creating responsive user interfaces.
+- "Database Architecture & Optimization": Involved in designing, implementing, and improving complex database systems (SQL or NoSQL) to ensure maximum performance and data integrity.
+- "Data Analysis & Insight Generation": Transforming raw data into strategic insights through advanced data analysis techniques and effective visualizations, helping data-driven decision making.
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and reach out for collaborations or discussions. Let’s innovate together!  
+"Thank You!!"
+Thank you for taking the time to explore my GitHub profile! I believe in the power of collaboration and data-driven innovation.
+Feel free to explore my repositories, or let’s connect to discuss project opportunities, data insights, or just brainstorm web development ideas.
+
+"Let’s create transformative digital solutions together!"
