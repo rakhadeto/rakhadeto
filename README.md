@@ -27,10 +27,14 @@ I am passionate about exploring the potential of data through intelligent analys
 </div>  
 
 <div align="center">  
-  <h4>📚 Frameworks & Libraries</h4>  
+  <h4>📚 Frameworks & Libraries</h4>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
   <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /> 
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> 
   <img src="https://img.shields.io/badge/-Tailwind?style=for-the-badge&logo=sass&logoColor=white" alt="Tailwind" /> 
+  
+
 </div>  
 
 <div align="center">  
