@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Hanafi  
+# 👋 Hi, I'm Naufal 
 
-Welcome to my GitHub profile! A strong foundation in coding since **7th grade**, I’m passionate about **web development**, **cybersecurity**, and **UI/UX design**, aiming to contribute to innovative and impactful projects.  
+Hi! I am Naufal, an Information Systems student at UIN Syarif Hidayatullah Jakarta with a deep interest in data architecture and web application development. Since early age, I have honed my coding skills and now focus on building digital solutions that are not only functional but also insightful.
+
+I am passionate about exploring the potential of data through intelligent analysis, designing and optimizing efficient databases, and translating those insights into intuitive and powerful web applications. I believe that the combination of these three fields is the key to creating innovations that have a real impact and shape the future of digital
 
 ---
 
