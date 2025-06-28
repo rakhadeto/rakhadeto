@@ -93,14 +93,14 @@ I am passionate about exploring the potential of data through intelligent analys
 ## 🤝 Collaboration Opportunities  
 
 I’m open to collaborating on:  
-- "End-to-End Web Application Development": Building robust and value-added web applications, from designing efficient databases, developing scalable backends, to creating responsive user interfaces.
-- "Database Architecture & Optimization": Involved in designing, implementing, and improving complex database systems (SQL or NoSQL) to ensure maximum performance and data integrity.
-- "Data Analysis & Insight Generation": Transforming raw data into strategic insights through advanced data analysis techniques and effective visualizations, helping data-driven decision making.
+- **End-to-End Web Application Development**: Building robust and value-added web applications, from designing efficient databases, developing scalable backends, to creating responsive user interfaces.
+- **Database Architecture & Optimization**: Involved in designing, implementing, and improving complex database systems (SQL or NoSQL) to ensure maximum performance and data integrity.
+- **Data Analysis & Insight Generation**: Transforming raw data into strategic insights through advanced data analysis techniques and effective visualizations, helping data-driven decision making.
 
 ---
 
-"Thank You!!"
+**Thank You!**
 Thank you for taking the time to explore my GitHub profile! I believe in the power of collaboration and data-driven innovation.
 Feel free to explore my repositories, or let’s connect to discuss project opportunities, data insights, or just brainstorm web development ideas.
 
-"Let’s create transformative digital solutions together!"
+**Let’s create transformative digital solutions together!**
