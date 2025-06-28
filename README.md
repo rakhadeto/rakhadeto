@@ -8,9 +8,9 @@ I am passionate about exploring the potential of data through intelligent analys
 
 ## 💡 About Me  
 
-- **Frontend Developer** skilled in both HTML5 CSS3 and JavaScript technologies.  
-- Dedicated to building user-friendly, high-performance applications.  
-- Enthusiast in **ethical hacking** with a focus on improving cybersecurity measures.  
+- Versatile **Web Developer** who has mastered both frontend and backend ecosystems, expert in HTML5, CSS3, and JavaScript to build responsive and high-performance web applications.
+- Dedicated to efficient database design and implementation, ensuring data integrity and scalability for robust applications.
+- Enthusiastic about extracting insights from data through intelligent analysis, transforming raw information into a basis for strategic decision making.
 
 ---
 
