@@ -73,12 +73,12 @@ I am passionate about exploring the potential of data through intelligent analys
 ## 📈 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=frhndevweb&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frhndevweb&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=rakhadeto&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180em" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakhadeto&theme=radical&hide_border=true" alt="GitHub Streak" height="180em" /> 
 </div>  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhndevweb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhadeto&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" /> 
 </div>  
 
 ---
