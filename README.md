@@ -32,9 +32,14 @@ I am passionate about exploring the potential of data through intelligent analys
   <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />  
   <img src="https://img.shields.io/badge/-SCSS-pink?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /> 
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> 
- 
-
 </div>  
+
+<div align="center">
+  <h4>🗄️ Database
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
 
 <div align="center">  
   <h4>🛠️ Tools & Platforms</h4>  
