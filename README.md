@@ -84,9 +84,9 @@ I am passionate about exploring the potential of data through intelligent analys
 ---
 
 ### Social Media  
-- [WhatsApp](https:/6281291359191/wa.me/)  
-- [Instagram](https://instagram.com/rakhadeto_d)  
-- [TikTok](https://tiktok.com/@rakhadeto_d)  
+- [📞 WhatsApp](https://wa.me/6281291359191) 
+- [📸 Instagram](https://instagram.com/rakhadeto_d)  
+- [🎵 TikTok](https://tiktok.com/@rakhadeto_d)  
 
 ---
 
@@ -99,7 +99,8 @@ I’m open to collaborating on:
 
 ---
 
-###Thank You!
+**Thank You!**
+
 Thank you for taking the time to explore my GitHub profile! I believe in the power of collaboration and data-driven innovation.
 Feel free to explore my repositories, or let’s connect to discuss project opportunities, data insights, or just brainstorm web development ideas.
 
