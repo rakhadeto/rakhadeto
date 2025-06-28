@@ -23,6 +23,7 @@ I am passionate about exploring the potential of data through intelligent analys
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
   <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />  
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />  
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </div>  
 
 <div align="center">  
