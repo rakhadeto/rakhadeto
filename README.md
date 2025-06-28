@@ -64,9 +64,9 @@ I am passionate about exploring the potential of data through intelligent analys
 
 ## 🎯 Current Focus  
 
-- **[Up yoUr Img](https://upuimg.kesug.com)** – A modern, feature-packed image-sharing web app.
-- **[Pemrograman Web](https://frhndevweb.github.io/Pemrograman-Web)** - Free web application to learn basic web programming
-- Experimenting with **cybersecurity projects** to enhance my skills in ethical hacking and system security.  
+- Developing Full-Stack Web Applications: Deep dive into the architecture and implementation of full-stack solutions with a focus on backend performance and responsive frontend experiences.
+- Advanced Database Optimization: Deep dive into database optimization techniques (SQL/NoSQL) to ensure scalability and efficiency in big data management.
+- Exploring Machine Learning for Data Analytics: Learn about machine learning algorithms and their applications to extract deeper insights from datasets, as well as their potential integration with web applications. 
 
 ---
 
