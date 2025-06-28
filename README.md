@@ -99,7 +99,7 @@ I’m open to collaborating on:
 
 ---
 
-**Thank You!**
+###Thank You!
 Thank you for taking the time to explore my GitHub profile! I believe in the power of collaboration and data-driven innovation.
 Feel free to explore my repositories, or let’s connect to discuss project opportunities, data insights, or just brainstorm web development ideas.
 
