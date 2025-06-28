@@ -47,7 +47,8 @@ I am passionate about exploring the potential of data through intelligent analys
   <img src="https://img.shields.io/badge/-Acode-black?style=for-the-badge&logo=android&logoColor=green" alt="Acode" />  
   <img src="https://img.shields.io/badge/-Termux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Termux" />  
   <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
-  <img src="https://img.shields.io/badge/-Netlify-blue?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />  
+  <img src="https://img.shields.io/badge/-NetBeans%20IDE-181717?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans IDE" />
+  <img src="https://img.shields.io/badge/-XAMPP-F76902?style=for-the-badge&logo=apache-couchdb&logoColor=white" alt="XAMPP" />
 </div>  
 
 ---
